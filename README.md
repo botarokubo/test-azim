@@ -19,9 +19,13 @@ Manage your tasks. Stay focused. Build consistency.
 ## 🧠 Architecture
 
 - Frontend (Vue.js + Vite)
-        ↓
+  
+  ↓
+  
 - Backend (Laravel API)
-       ↓
+
+  ↓
+
 - Database (MySQL)
 
 ---
