@@ -21,25 +21,35 @@ Frontend (Vue.js + Vite)
 Backend (Laravel API)
         ↓
 Database (MySQL)
+
 🛠️ Tech Stack
-Layer	Technology
-Backend	Laravel
-Frontend	Vue.js
-Auth	Laravel Breeze
-Database	MySQL
-Build Tool	Vite
+Layer    Technology
+Backend    Laravel
+Frontend    Vue.js
+Auth    Laravel Breeze
+Database    MySQL
+Build Tool    Vite
+
 ⚡ Installation
+1:
 git clone https://github.com/botarokubo/test-azim.git
+2:
 cd test-azim
+3:
 composer install
 npm install
+4:
 cp .env.example .env
+5:
 php artisan key:generate
 php artisan migrate
+6:
 php artisan serve
 npm run dev
+
 🌐 Run the App
 http://127.0.0.1:8000
+
 🎨 UI Concept
 ╔══════════════════════════════╗
 ║        📝 ToDo List          ║
@@ -48,33 +58,13 @@ http://127.0.0.1:8000
 ║ ⏳ Study Vue components      ║
 ║ ❌ Fix merge conflicts       ║
 ╚══════════════════════════════╝
-📸 Preview
-
-(Add your screenshots here for extra marks 💯)
-
-![App Screenshot](your-screenshot-link)
-💡 What I Learned
-
-Integrating Laravel with Vue.js
-
-Building authentication using Breeze
-
-Managing state and UI with components
-
-Handling CRUD operations efficiently
-
-Structuring a full-stack project
 
 🧑‍💻 Author
-
 Azim (Botaro)
-
 Full-stack developer in progress 🚀
 
 🌙 Closing
-
 Discipline is choosing between what you want now and what you want most.
 
 ⭐ Support
-
 If you like this project, consider giving it a ⭐ on GitHub!
