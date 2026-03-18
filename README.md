@@ -19,19 +19,19 @@ Manage your tasks. Stay focused. Build consistency.
 ## 🧠 Architecture
 
 - Frontend (Vue.js + Vite)
--        ↓
+        ↓
 - Backend (Laravel API)
--       ↓
+       ↓
 - Database (MySQL)
 
 ---
 
 ## 🛠️ Tech Stack
--Backend: Laravel
--Frontend: Vue.js
--Auth: Laravel Breeze
--Database: MySQL
--Build Tool: Vite
+- Backend: Laravel
+- Frontend: Vue.js
+- Auth: Laravel Breeze
+- Database: MySQL
+- Build Tool: Vite
 
 ---
 
@@ -55,6 +55,7 @@ http://127.0.0.1:8000
 ---
 
 ## 🎨 UI Concept
+```bash
 ╔══════════════════════════════╗
 ║        📝 ToDo List          ║
 ╠══════════════════════════════╣
@@ -62,7 +63,7 @@ http://127.0.0.1:8000
 ║ ⏳ Study Vue components      ║
 ║ ❌ Fix merge conflicts       ║
 ╚══════════════════════════════╝
-
+```
 ---
 
 ## 🧑‍💻 Author
