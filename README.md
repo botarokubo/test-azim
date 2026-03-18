@@ -18,24 +18,25 @@ Manage your tasks. Stay focused. Build consistency.
 
 ## 🧠 Architecture
 
-Frontend (Vue.js + Vite)
-        ↓
-Backend (Laravel API)
-        ↓
-Database (MySQL)
+- Frontend (Vue.js + Vite)
+-        ↓
+- Backend (Laravel API)
+-       ↓
+- Database (MySQL)
 
 ---
 
 ## 🛠️ Tech Stack
-Backend: Laravel
-Frontend: Vue.js
-Auth: Laravel Breeze
-Database: MySQL
-Build Tool: Vite
+-Backend: Laravel
+-Frontend: Vue.js
+-Auth: Laravel Breeze
+-Database: MySQL
+-Build Tool: Vite
 
 ---
 
 ## ⚡ Installation
+```bash
 git clone https://github.com/botarokubo/test-azim.git
 cd test-azim
 composer install
@@ -45,7 +46,7 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 npm run dev
-
+```
 ---
 
 ## 🌐 Run the App
