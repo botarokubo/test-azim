@@ -7,43 +7,37 @@ A modern full-stack To-Do List web application built using Laravel + Vue.js, des
 
 Manage your tasks. Stay focused. Build consistency.
 
-🎯 Key Features
+## 🎯 Key Features
+✨ Authentication system (Login & Register)  
+✨ Full CRUD operations for tasks  
+✨ Component-based UI with Vue.js  
+✨ Responsive and clean design  
+✨ Real-time UI updates  
 
-✨ Authentication system (Login & Register)
-✨ Full CRUD operations for tasks
-✨ Component-based UI with Vue.js
-✨ Responsive and clean design
-✨ Real-time UI updates
+---
 
-🧠 Architecture
+## 🧠 Architecture
+
 Frontend (Vue.js + Vite)
         ↓
 Backend (Laravel API)
         ↓
 Database (MySQL)
-
 🛠️ Tech Stack
-Layer    Technology
-Backend    Laravel
-Frontend    Vue.js
-Auth    Laravel Breeze
-Database    MySQL
-Build Tool    Vite
+Backend: Laravel
+Frontend: Vue.js
+Auth: Laravel Breeze
+Database: MySQL
+Build Tool: Vite
 
 ⚡ Installation
-1:
 git clone https://github.com/botarokubo/test-azim.git
-2:
 cd test-azim
-3:
 composer install
 npm install
-4:
 cp .env.example .env
-5:
 php artisan key:generate
 php artisan migrate
-6:
 php artisan serve
 npm run dev
 
