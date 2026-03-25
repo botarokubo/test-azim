@@ -64,8 +64,8 @@ http://127.0.0.1:8000
 ║        📝 ToDo List          ║
 ╠══════════════════════════════╣
 ║ ✔ Complete project           ║
-║ ⏳ Study Vue components      ║
-║ ❌ Fix merge conflicts       ║
+║ ✔Study Vue components        ║
+║✔ Fix merge conflicts         ║
 ╚══════════════════════════════╝
 ```
 ---
